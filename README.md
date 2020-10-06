@@ -1,3 +1,10 @@
+Floor-Plan Lab
+Submitted 10.5.2020
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
